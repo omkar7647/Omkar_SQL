@@ -1,1 +1,1 @@
-# Omkar_SQL
+## SQL assignments 
